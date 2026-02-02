@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2014ec5b3bf8b1a49a8739bdf63f543e, type: 3}
+  m_Name: Wave4
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleWave
+  enemiesToSpawn: 400
+  spawnRate: 20
+  maxAlive: 60
+  enemyPrefabs:
+  - {fileID: 9082980419148329665, guid: 0dee115a033017941b8c011a05bcdad9, type: 3}
+  - {fileID: 7443590232293370044, guid: 9d6ca7acd0024b7449768b2ad1c676e0, type: 3}
+  - {fileID: 5120968508617772812, guid: 090156a832795a4418d57461de26c7b1, type: 3}
+  spawnMinRadius: 8
+  spawnMaxRadius: 12
+  breakDuration: 0

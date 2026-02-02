@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a76ecdb6a6f4c4aaf6d6c78401006b, type: 3}
+  m_Name: WaveSet
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleWaveSet
+  waves:
+  - {fileID: 11400000, guid: 7b7245cf6a9b3484d8f151f0021e4c52, type: 2}
+  - {fileID: 11400000, guid: 1e18a99e6b376f74e80a7fb55c64ee6b, type: 2}
+  - {fileID: 11400000, guid: a92a7c54b22966f4f869cb704224f0fd, type: 2}
+  - {fileID: 11400000, guid: 363912b854df3e74eaa1e7ce59ee4aa9, type: 2}
+  - {fileID: 11400000, guid: 54d8ffcea944d764793d4104d46a8ec3, type: 2}
+  - {fileID: 11400000, guid: f3156373d9c7b464b96fd96081cfa989, type: 2}
+  - {fileID: 11400000, guid: 75221b9963fbc374b954f9aa32bdb4f3, type: 2}
+  - {fileID: 11400000, guid: 8f7845719493caf46a79e98dfb9ab65f, type: 2}
+  - {fileID: 11400000, guid: 22e6eff143db9f64d96f400cd1256b64, type: 2}
+  - {fileID: 11400000, guid: 25350bc7c0fa4ed44bc223e71b150f3a, type: 2}
+  endlessMode: 0
+  endlessMultiplier: 1.2
